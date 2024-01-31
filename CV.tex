@@ -1,0 +1,193 @@
+% 选项-设置Tex Studio-构建-默认文献工具-Biber
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+%	The MIT License (MIT)
+%
+%	Copyright (c) 2021 Jitin Nair
+%
+%	Permission is hereby granted, free of charge, to any person obtaining a copy
+%	of this software and associated documentation files (the "Software"), to deal
+%	in the Software without restriction, including without limitation the rights
+%	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%	copies of the Software, and to permit persons to whom the Software is
+%	furnished to do so, subject to the following conditions:
+%	
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+%	THE SOFTWARE.
+%	
+%
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT DEFINITION
+%----------------------------------------------------------------------------------------
+
+% article class because we want to fully customize the page and not use a cv template
+\documentclass[a4paper,12pt]{article}
+
+%----------------------------------------------------------------------------------------
+%	FONT
+%----------------------------------------------------------------------------------------
+
+% % fontspec allows you to use TTF/OTF fonts directly
+% \usepackage{fontspec}
+% \defaultfontfeatures{Ligatures=TeX}
+
+% % modified for ShareLaTeX use
+% \setmainfont[
+% SmallCapsFont = Fontin-SmallCaps.otf,
+% BoldFont = Fontin-Bold.otf,
+% ItalicFont = Fontin-Italic.otf
+% ]
+% {Fontin.otf}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES
+%----------------------------------------------------------------------------------------
+\usepackage{url}
+\usepackage{parskip} 	
+
+%other packages for formatting
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[scale=0.9]{geometry}
+
+%tabularx environment
+\usepackage{tabularx}
+
+%for lists within experience section
+\usepackage{enumitem}
+
+% centered version of 'X' col. type
+\newcolumntype{C}{>{\centering\arraybackslash}X} 
+
+%to prevent spillover of tabular into next pages
+\usepackage{supertabular}
+\usepackage{tabularx}
+\newlength{\fullcollw}
+\setlength{\fullcollw}{0.47\textwidth}
+
+%custom \section
+\usepackage{titlesec}				
+\usepackage{multicol}
+\usepackage{multirow}
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{10pt}
+
+%for publications
+\usepackage[style=authoryear,style=trad-abbrv,sorting=ynt, maxnames=8,minnames=8]{biblatex}
+% biblatex
+%Setup hyperref package, and colours for links
+\usepackage[unicode, draft=false]{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+\addbibresource{citations.bib}
+\setlength\bibitemsep{0em} % 参考文献间的间距
+
+%for social icons
+\usepackage{fontawesome5}
+
+%debug page outer frames
+%\usepackage{showframe}
+
+%----------------------------------------------------------------------------------------
+%	BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+% non-numbered pages
+\pagestyle{empty} 
+
+%----------------------------------------------------------------------------------------
+%	TITLE
+%----------------------------------------------------------------------------------------
+
+% \begin{tabularx}{\linewidth}{ @{}X X@{} }
+% \huge{Your Name}\vspace{2pt} & \hfill \emoji{incoming-envelope} email@email.com \\
+% \raisebox{-0.05\height}\faGithub\ username \ | \
+% \raisebox{-0.00\height}\faLinkedin\ username \ | \ \raisebox{-0.05\height}\faGlobe \ mysite.com  & \hfill \emoji{calling} number
+% \end{tabularx}
+
+\begin{tabularx}{\linewidth}{@{} C @{}}
+\Huge{Zhipeng Pei} \\[7.5pt]
+\normalsize State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, \\
+\normalsize Wuhan University, Wuhan 430079, China\\
+\href{mailto:peisipand@whu.edu.cn}{\raisebox{-0.05\height}\faEnvelope \ peisipand@whu.edu.cn} \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE SECTIONS
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+\begin{tabularx}{\linewidth}{X@{} X@{} X@{} }	
+	Wuhan University & Ph.D. (Geomatics) & 2019 - present \hfill \normalsize Wuhan, China\\
+	Wuhan University & B.E. (Computer Sciences) & 2015 - 2019 \hfill Wuhan, China \\
+\end{tabularx}
+
+
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+\section{Publications}
+\begin{refsection}[citations.bib]
+\nocite{*}
+\printbibliography[heading=none]
+\end{refsection}
+
+
+% PRESENTATIONS
+\section{PRESENTATIONS}
+\noindent[1]\quad\textbf{Z. Pei}  et al., Assessment of Anthropogenic CO2 Emissions Using OCO-2 Observations: A case study in Anshan. China's 1st Carbon Neutral and Green Development Conference, Shenzhen, China, May 2021, Oral. \\
+\noindent[2]\quad\textbf{Z. Pei} et al., Retrieval of greenhouse gas concentrations using ground-based FTS spectra at Wuhan, China. Optical Sensors and Sensing Congress, Virtual, Jul. 2021, Oral. \\
+\noindent[3]\quad\textbf{Z. Pei} et al., Detection of methane point sources with hyperspectral satellites in China. Sino-American Youth Dialogue, Beijing, China, Oct. 2021, Oral.\\
+\noindent[4]\quad\textbf{Z. Pei} et al., Towards Better Estimating Facility-level Methane Emissions with Spaceborne Imaging Spectrometers. AGU Fall Meeting 2023, San Francisco, U.S., Dec.. 2023, Poster.\\
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL SKILLS
+%----------------------------------------------------------------------------------------
+\section{TECHNICAL SKILLS}
+\begin{itemize}[noitemsep,nolistsep,leftmargin=*]
+	\item {\noindent \textbf{Programming languages:} Proficient with MATAB, Python, R, Google Earth Engine. }
+	\item {\noindent \textbf{Modeling experience:} WRF-LES, WRF-STILT and LBLRTM. }
+\end{itemize}
+
+% AWARDS/HONORS
+\section{AWARDS/HONORS}
+\begin{itemize}[noitemsep,nolistsep,leftmargin=*]
+	\item {National Scholarship for Graduate Student (2021)}
+	\item {Excellent graduate of Wuhan University(2019)}
+	\item {Scholarship of Wuhan University (2017, 2018, 2020, 2021)}
+	\item {Outstanding Student Leader of Wuhan University (2017, 2018)}
+	\item {Excellent student of Wuhan University(2017)}
+\end{itemize}
+
+% LANGUAGE
+\section{LANGUAGE}
+\begin{itemize}[noitemsep,nolistsep,leftmargin=*]
+	\item {Native-level proficiency in Chinese, Good at reading and writing in English. }
+\end{itemize}
+
+% PERSONAL INTERESTS
+\section{PERSONAL INTERESTS}
+\begin{itemize}[noitemsep,nolistsep,leftmargin=*]
+	\item {Badminton, swiming, hiking and photography.}
+\end{itemize}
+
+\vfill
+\center{\footnotesize Last updated: \today}
+
+\end{document}

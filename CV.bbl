@@ -1,0 +1,488 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{pei2020response}{article}{}
+      \name{author}{5}{}{%
+        {{hash=30d2848f1a31015976f6b4dd6ecc1dd0}{%
+           family={\textbf{Z.\bibnamedelimi Pei}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=3768537b732a0e6eeac046def7c74b4c}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Hang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{98f9afb5b20fcbbba5417a4f842f8634}
+      \strng{fullhash}{98f9afb5b20fcbbba5417a4f842f8634}
+      \strng{bibnamehash}{98f9afb5b20fcbbba5417a4f842f8634}
+      \strng{authorbibnamehash}{98f9afb5b20fcbbba5417a4f842f8634}
+      \strng{authornamehash}{98f9afb5b20fcbbba5417a4f842f8634}
+      \strng{authorfullhash}{98f9afb5b20fcbbba5417a4f842f8634}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science of the Total Environment}
+      \field{title}{Response of major air pollutants to COVID-19 lockdowns in China}
+      \field{volume}{743}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{140879}
+      \range{pages}{1}
+    \endentry
+    \entry{shi2021quantifying}{article}{}
+      \name{author}{10}{}{%
+        {{hash=daccbe7ab535bb1f4d22481d28552c16}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Tianqi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=da2edc35c7e82ce24ec6ce6f97d05187}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Weibiao},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b08579bbbf0a7fbe5554a07e9c1692ba}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiqiao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=77e23fe9064363089ab2750f4ccfbc58}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xingying},
+           giveni={X\bibinitperiod}}}%
+        {{hash=30d2848f1a31015976f6b4dd6ecc1dd0}{%
+           family={\textbf{Z.\bibnamedelimi Pei}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8ab57d26f16ad97d248a3ae7e2bcfd72}{%
+           family={Gou},
+           familyi={G\bibinitperiod},
+           given={Hailong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3fea086715ede8686d3ae55c6397a965}{%
+           family={Bu},
+           familyi={B\bibinitperiod},
+           given={Lingbing},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{9cc6e85b031979e7f2edcc2e1bc53400}
+      \strng{fullhash}{5901ff61d7c441b07a75220ccbed4a70}
+      \strng{bibnamehash}{9cc6e85b031979e7f2edcc2e1bc53400}
+      \strng{authorbibnamehash}{9cc6e85b031979e7f2edcc2e1bc53400}
+      \strng{authornamehash}{9cc6e85b031979e7f2edcc2e1bc53400}
+      \strng{authorfullhash}{5901ff61d7c441b07a75220ccbed4a70}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Research Letters}
+      \field{number}{9}
+      \field{title}{Quantifying CO2 uptakes over oceans using LIDAR: A tentative experiment in Bohai bay}
+      \field{volume}{48}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{e2020GL091160}
+      \range{pages}{-1}
+    \endentry
+    \entry{cai2022active}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8190130c88b0a43f8d0c0d4ee516104f}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Mengyang},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=30d2848f1a31015976f6b4dd6ecc1dd0}{%
+           family={\textbf{Z.\bibnamedelimi Pei}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{62454b4a2589880b46d423fb775d14f0}
+      \strng{fullhash}{62454b4a2589880b46d423fb775d14f0}
+      \strng{bibnamehash}{62454b4a2589880b46d423fb775d14f0}
+      \strng{authorbibnamehash}{62454b4a2589880b46d423fb775d14f0}
+      \strng{authornamehash}{62454b4a2589880b46d423fb775d14f0}
+      \strng{authorfullhash}{62454b4a2589880b46d423fb775d14f0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{number}{16}
+      \field{title}{Active--passive collaborative approach for XCO 2 retrieval using spaceborne sensors}
+      \field{volume}{47}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{4211\bibrangedash 4214}
+      \range{pages}{4}
+    \endentry
+    \entry{pei2022method}{article}{}
+      \name{author}{5}{}{%
+        {{hash=30d2848f1a31015976f6b4dd6ecc1dd0}{%
+           family={\textbf{Z.\bibnamedelimi Pei}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=daccbe7ab535bb1f4d22481d28552c16}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Tianqi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e4555d36d5e63f990691c6a8831605cc}
+      \strng{fullhash}{e4555d36d5e63f990691c6a8831605cc}
+      \strng{bibnamehash}{e4555d36d5e63f990691c6a8831605cc}
+      \strng{authorbibnamehash}{e4555d36d5e63f990691c6a8831605cc}
+      \strng{authornamehash}{e4555d36d5e63f990691c6a8831605cc}
+      \strng{authorfullhash}{e4555d36d5e63f990691c6a8831605cc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Geoscience and Remote Sensing}
+      \field{title}{A method for estimating the background column concentration of CO 2 using the lagrangian approach}
+      \field{volume}{60}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
+    \entry{shi2023quantifying}{article}{}
+      \name{author}{10}{}{%
+        {{hash=daccbe7ab535bb1f4d22481d28552c16}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Tianqi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=acad2a007c18fa9aa531ee12c9d99fc3}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Huiqin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3336b36071bac204c2cea1fb7311f539}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Cuihong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=39fe2a9505b9ab2b8cba35e05f87dfc9}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Zeyu},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=30d2848f1a31015976f6b4dd6ecc1dd0}{%
+           family={\textbf{Z.\bibnamedelimi Pei}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8cb1dcd229cb02dbc21ed4c6bc6bce8a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Haowei},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6d1e44e26680c3e3616f12ba42ebeb08}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Siwei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{1082f3300c909be6e34a051fbc612cd3}
+      \strng{fullhash}{1d3cbfd7b19d618e6963638d7e4fbe26}
+      \strng{bibnamehash}{1082f3300c909be6e34a051fbc612cd3}
+      \strng{authorbibnamehash}{1082f3300c909be6e34a051fbc612cd3}
+      \strng{authornamehash}{1082f3300c909be6e34a051fbc612cd3}
+      \strng{authorfullhash}{1d3cbfd7b19d618e6963638d7e4fbe26}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Research Letters}
+      \field{number}{3}
+      \field{title}{Quantifying factory-scale CO2/CH4 emission based on mobile measurements and EMISSION-PARTITION model: cases in China}
+      \field{volume}{18}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{034028}
+      \range{pages}{1}
+    \endentry
+    \entry{shi2023quantifying1}{article}{}
+      \name{author}{9}{}{%
+        {{hash=daccbe7ab535bb1f4d22481d28552c16}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Tianqi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=30d2848f1a31015976f6b4dd6ecc1dd0}{%
+           family={\textbf{Z.\bibnamedelimi Pei}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a11c3a4286b951817c239545b24b5f2d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Weibo},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b08579bbbf0a7fbe5554a07e9c1692ba}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiqiao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=77e23fe9064363089ab2750f4ccfbc58}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xingying},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6d1e44e26680c3e3616f12ba42ebeb08}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Siwei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c4de6d96797f8fc35f214eab1939715b}
+      \strng{fullhash}{6324a55af39c3de5c6f0411386d4d00c}
+      \strng{bibnamehash}{c4de6d96797f8fc35f214eab1939715b}
+      \strng{authorbibnamehash}{c4de6d96797f8fc35f214eab1939715b}
+      \strng{authornamehash}{c4de6d96797f8fc35f214eab1939715b}
+      \strng{authorfullhash}{6324a55af39c3de5c6f0411386d4d00c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{title}{Quantifying strong point sources emissions of CO2 using spaceborne LiDAR: Method development and potential analysis}
+      \field{volume}{292}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{117346}
+      \range{pages}{1}
+    \endentry
+    \entry{pei2023improving}{article}{}
+      \name{author}{8}{}{%
+        {{hash=30d2848f1a31015976f6b4dd6ecc1dd0}{%
+           family={\textbf{Z.\bibnamedelimi Pei}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=acad2a007c18fa9aa531ee12c9d99fc3}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Huiqin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3336b36071bac204c2cea1fb7311f539}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Cuihong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=daccbe7ab535bb1f4d22481d28552c16}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Tianqi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8fa54f86c003acd3d45be1efd537d507}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Keyi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2b6c0066a18ce33adcd129a221003163}
+      \strng{fullhash}{2b6c0066a18ce33adcd129a221003163}
+      \strng{bibnamehash}{2b6c0066a18ce33adcd129a221003163}
+      \strng{authorbibnamehash}{2b6c0066a18ce33adcd129a221003163}
+      \strng{authornamehash}{2b6c0066a18ce33adcd129a221003163}
+      \strng{authorfullhash}{2b6c0066a18ce33adcd129a221003163}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing of Environment}
+      \field{title}{Improving quantification of methane point source emissions from imaging spectroscopy}
+      \field{volume}{295}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{113652}
+      \range{pages}{1}
+    \endentry
+    \entry{pei2023xco2}{article}{}
+      \name{author}{5}{}{%
+        {{hash=30d2848f1a31015976f6b4dd6ecc1dd0}{%
+           family={\textbf{Z.\bibnamedelimi Pei}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=daccbe7ab535bb1f4d22481d28552c16}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Tianqi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b721b2eafe24ab91d8e5248a79d11983}
+      \strng{fullhash}{b721b2eafe24ab91d8e5248a79d11983}
+      \strng{bibnamehash}{b721b2eafe24ab91d8e5248a79d11983}
+      \strng{authorbibnamehash}{b721b2eafe24ab91d8e5248a79d11983}
+      \strng{authornamehash}{b721b2eafe24ab91d8e5248a79d11983}
+      \strng{authorfullhash}{b721b2eafe24ab91d8e5248a79d11983}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Atmospheric Environment}
+      \field{title}{A XCO2 Retrieval Algorithm Coupled Spatial Correlation for the Aerosol and Carbon Detection Lidar}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{119933}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
