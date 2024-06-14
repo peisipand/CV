@@ -1,17 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'CV.blg'
-[331] biber-MSWIN64:340> INFO - === 
-[385] Biber.pm:419> INFO - Reading 'CV.bcf'
-[525] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[525] Biber.pm:976> INFO - Using all citekeys in bib section 1
-[525] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[551] Biber.pm:4419> INFO - Processing section 1
-[564] Biber.pm:4610> INFO - Looking for bibtex file 'citations.bib' for section 1
-[668] bibtex.pm:1713> INFO - LaTeX decoding ...
-[684] bibtex.pm:1519> INFO - Found BibTeX data source 'citations.bib'
-[798] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[799] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[799] Biber.pm:4239> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[799] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[810] bbl.pm:660> INFO - Writing 'CV.bbl' with encoding 'UTF-8'
-[819] bbl.pm:763> INFO - Output to CV.bbl
+[124] biber-MSWIN64:340> INFO - === 
+[168] Biber.pm:419> INFO - Reading 'CV.bcf'
+[293] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[294] Biber.pm:976> INFO - Using all citekeys in bib section 1
+[294] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[314] Biber.pm:4419> INFO - Processing section 1
+[327] Biber.pm:4610> INFO - Looking for bibtex file 'citations.bib' for section 1
+[387] bibtex.pm:1713> INFO - LaTeX decoding ...
+[404] bibtex.pm:1519> INFO - Found BibTeX data source 'citations.bib'
+[529] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[529] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[529] Biber.pm:4239> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[529] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[541] bbl.pm:660> INFO - Writing 'CV.bbl' with encoding 'UTF-8'
+[551] bbl.pm:763> INFO - Output to CV.bbl

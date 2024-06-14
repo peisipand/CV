@@ -482,6 +482,74 @@
       \field{pages}{119933}
       \range{pages}{1}
     \endentry
+    \entry{han2024unveiling}{article}{}
+      \name{author}{9}{}{%
+        {{hash=4dd160c828b64c1ab89a10d4ffdc7f02}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ge},
+           giveni={G\bibinitperiod}}}%
+        {{hash=776c6616f45135f26f0be0e9f59f31cd}{%
+           family={\textbf{Z.\bibnamedelimi Pei*}},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=daccbe7ab535bb1f4d22481d28552c16}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Tianqi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=acad2a007c18fa9aa531ee12c9d99fc3}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Huiqin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6d1e44e26680c3e3616f12ba42ebeb08}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Siwei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9e13bbbdcbfdd11c682f687c3d92b651}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Feiyue},
+           giveni={F\bibinitperiod}}}%
+        {{hash=05a29da82f542676c561ef683d8e2ce8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=77e23fe9064363089ab2750f4ccfbc58}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xingying},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5a51dd5a7c41b6022604655c9f740732}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b3650af87e1417a00adbdf5eaee5927a}
+      \strng{fullhash}{cb6dbefffeaa60634b9b961eac6d049d}
+      \strng{bibnamehash}{b3650af87e1417a00adbdf5eaee5927a}
+      \strng{authorbibnamehash}{b3650af87e1417a00adbdf5eaee5927a}
+      \strng{authornamehash}{b3650af87e1417a00adbdf5eaee5927a}
+      \strng{authorfullhash}{cb6dbefffeaa60634b9b961eac6d049d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Research Letters}
+      \field{number}{10}
+      \field{title}{Unveiling unprecedented methane hotspots in China's leading coal production hub: A satellite mapping revelation}
+      \field{volume}{51}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{e2024GL109065}
+      \range{pages}{-1}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
